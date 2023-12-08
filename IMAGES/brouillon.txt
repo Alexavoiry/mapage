@@ -1,0 +1,45 @@
+body{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px;
+    padding: 0px;
+    background-color: #303D58;
+    font: roboto;
+}
+#en_tete{
+    height: 80px;
+    margin: 10px;
+    border: 2px dotted #F7E;
+    background: url("IMAGES/en_tete.avif");
+}
+
+    height: 80px;
+    margin: 10px;
+    border: 2px dotted #F7E;
+    background: url("IMAGES/en_tete.avif");
+}
+nav ul li{
+
+   list-style-type: none;
+   display: inline-block;
+   padding: 10px;
+
+}
+ul li a{
+    color: blueviolet;
+    letter-spacing:0,1 rem;
+}
+.menu li{
+float: left;
+padding: 35px;
+}
+
+form{
+    padding: 35px;
+    h1,h2,h3,ul,p{
+    
+    background-color: palevioletred;
+}
+
+ 
